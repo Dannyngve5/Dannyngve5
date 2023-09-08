@@ -1,4 +1,6 @@
-### Hi there 👋
+## ¡Hola! 👋
+
+Soy Daniel Parra estudiante de ingeniería de sistemas de la universidad Distrital, Bogotá 
 
 <!--
 **Dannyngve5/Dannyngve5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
