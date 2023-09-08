@@ -4,6 +4,9 @@
 <div align="center">
 <img src="https://github.com/Dannyngve5/Dannyngve5/blob/main/gallery%20(1).gif" align="center" widht=800 height=280>
 </div>
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/Dannyngve5?style=social)](https://github.com/Dannyngve5)
 
 ## ABOUT ME 👨🏻‍💻
 
