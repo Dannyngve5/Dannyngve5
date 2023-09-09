@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm  <a href="https://aristi.dev">Daniel Parra G.</a> 👋</h1>
 </div>
 <div align="center">
-<img src="https://github.com/Dannyngve5/Dannyngve5/blob/main/gallery%20(1).gif" align="center" widht=800 height=280>
+<img src="https://github.com/Dannyngve5/Dannyngve5/blob/main/Banner_Perfil.gif" align="center" widht=800 height=280>
 </div>
 <br>
 
