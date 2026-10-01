@@ -19,7 +19,7 @@ Outside of tech, I love languages. I speak Spanish, Portuguese, and English, and
 
 <br>
 
-## CONTACT 📧
+## CONTACT 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deparragz@gmail.com)
+📧 deparragz@gmail.com
 
