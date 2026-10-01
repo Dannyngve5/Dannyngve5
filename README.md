@@ -11,29 +11,15 @@
 
 ## ABOUT ME 👨🏻‍💻
 
-I'm Daniel Parra, an undergraduate student majoring in Systems Engineering at the Francisco José de Caldas District University in Bogotá, Colombia. As I'm about to complete my degree, I'm excited about the endless possibilities that the world of technology and systems engineering has to offer. With a good academic record and a passion for all things tech, I've honed my skills in software development and problem-solving. I'm eager to continue learning, exploring new technologies, and contributing to exciting projects in the field. Feel free to reach out if you'd like to connect or collaborate on interesting ventures!
+Hi, I'm Daniel, a Systems Engineer from Bogotá, Colombia.
+
+I'm interested in technology and software development. I enjoy working on personal projects, trying out different technologies, and learning new things along the way.
+
+Outside of tech, I love languages. I speak Spanish, Portuguese, and English, and I'm always interested in learning more.
 
 <br>
 
-## CONTACT 📞
+## CONTACT 📧
 
-[![Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dannyngve/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deparragz@gmail.com)
 
-[![Twitter ](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-
-<!--
-**Dannyngve5/Dannyngve5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
